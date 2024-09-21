@@ -1,0 +1,4 @@
+This is my first diary 
+I wanna write down something to keep the day when I use Github for store my code and my diary.
+Thanks for RP.The orgnise push me to learn more including stm32F,FreeRtos,Jlink,Jscope and Github.
+今天主要学习了Jlink的使用，以及用CubeMX，创建了一个工程，这个软件很强大，竟然可以直接创建FreeRtos任务，做了第一个自己的工程点亮流水灯哈哈哈。
